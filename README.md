@@ -6,7 +6,7 @@
 
 ## 运行时下载验证码到本地，opencv库显示图片，点击空格图片窗口关闭输入验证码。验证码输入错误时进入循环，直到验证码正确再进入下一个数字尝试
 
-## 采用手工打码的方式识别验证码，效率较低，希望有深度学习大佬pull request
+## 采用手工打码的方式识别验证码，效率较低，理想状态全自动运行，AI识别验证码。但试了tesseract识别率感人。希望有深度学习大佬pull request
 
 ![](https://upload-images.jianshu.io/upload_images/11356161-d644619c681eabb0.gif?imageMogr2/auto-orient/strip)
 
