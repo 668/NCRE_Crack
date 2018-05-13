@@ -1,0 +1,28 @@
+var dq={"code":"NCRE",
+		"tab":"NCRE_1803",
+		"name":"全国计算机等级考试（NCRE）",
+		"sn":"2018年3月全国计算机等级考试（NCRE）",
+		"en":"2018年03月全国计算机等级考试（NCRE）",
+		"qt":"2018/05/09 11:09:07",
+		"bkjb":[
+				{"code":"14","name":"14一级计算机基础及WPS Office应用","certi_data":"images/ncre1-2013.jpg|847|600"},
+				{"code":"15","name":"15一级计算机基础及MS Office应用","certi_data":"images/ncre1-2013.jpg|847|600"},
+				{"code":"16","name":"16一级计算机基础及Photoshop应用","certi_data":"images/ncre1-2013.jpg|847|600"},
+				{"code":"24","name":"24二级C语言程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"26","name":"26二级VB语言程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"28","name":"28二级JAVA语言程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"29","name":"29二级ACCESS数据库程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"61","name":"61二级C++语言程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"63","name":"63二级MySQL数据程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"64","name":"64二级Web程序设计","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"65","name":"65二级MS Office高级应用","certi_data":"images/ncre2-2013.jpg|847|600"},
+				{"code":"35","name":"35三级网络技术","certi_data":"images/ncre3-2013.jpg|847|600"},
+				{"code":"36","name":"36三级数据库技术","certi_data":"images/ncre3-2013.jpg|847|600"},
+				{"code":"38","name":"38三级信息安全技术","certi_data":"images/ncre3-2013.jpg|847|600"},
+				{"code":"39","name":"39三级嵌入式系统开发技术","certi_data":"images/ncre3-2013.jpg|847|600"},
+				{"code":"41","name":"41四级网络工程师","certi_data":"images/ncre4-2013.jpg|847|600"},
+				{"code":"42","name":"42四级数据库工程师","certi_data":"images/ncre4-2013.jpg|847|600"},
+				{"code":"44","name":"44四级信息安全工程师","certi_data":"images/ncre4-2013.jpg|847|600"},
+				{"code":"45","name":"45四级嵌入式系统开发工程师","certi_data":"images/ncre4-2013.jpg|847|600"}
+				]
+			};
